@@ -1,6 +1,6 @@
 EECS 351 Final Project
 ======================
-FFT-Based Audio Watermarking
+Frame-Encoded Audio Watermarking
 
 Zak Kerhoulas, Josh Cheng, Rachel Nowak
 
